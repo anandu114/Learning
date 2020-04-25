@@ -1,0 +1,1 @@
+This is a sample notepad file to learn the basics of GIT
